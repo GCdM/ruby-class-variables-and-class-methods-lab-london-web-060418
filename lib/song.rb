@@ -36,5 +36,6 @@ class Song
       else
         g_count[song.genre] = 1
     end
+    g_count
   end
 end
