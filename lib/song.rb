@@ -19,6 +19,7 @@ class Song
       @@artist_count[artist] += 1
     else
       @@artist_count[artist] = 1
+    end
     @@genres << genre
     if @@genre_count[genre]
       @@genre_count[genre] += 1
