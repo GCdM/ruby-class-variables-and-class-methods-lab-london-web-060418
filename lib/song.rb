@@ -1,10 +1,10 @@
 class Song
-  attr_accessor 
   attr_reader :name, :artist, :genre
   
   @@count = 0
   @@artists = []
   @@genres = []
+  @@songs = []
   
   def initialize(name, artist, genre)
     @name = name
@@ -13,6 +13,7 @@ class Song
     @@count += 1
     @@artists << artist
     @@genres << genre
+    @@songs << self
   end
   
   def self.count
@@ -28,6 +29,12 @@ class Song
   end
   
   def self.genre_count
-    @@genres.uniq.length
+    g_count = {}
+    @@songs.each do |song|
+      if g_count[song.genre]
+        g_count[song.genre] += 1
+      else
+        g_count[song.genre] = 1
+    end
   end
 end
