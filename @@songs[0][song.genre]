@@ -1,0 +1,29 @@
+=> [[[32m#<Song:0x000000032485d0[0m @artist[32m=[0m[31m[1;31m"[0m[31mJay-Z[1;31m"[0m[31m[0m, @genre[32m=[0m[31m[1;31m"[0m[31mrap[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31mLucifer[1;31m"[0m[31m[0m[32m>[0m],
+ [[32m#<Song:0x00000003248328[0m @artist[32m=[0m[31m[1;31m"[0m[31mJay-Z[1;31m"[0m[31m[0m, @genre[32m=[0m[31m[1;31m"[0m[31mrap[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31m99 Problems[1;31m"[0m[31m[0m[32m>[0m],
+ [[32m#<Song:0x00000003248030[0m
+   @artist[32m=[0m[31m[1;31m"[0m[31mBrittany Spears[1;31m"[0m[31m[0m,
+   @genre[32m=[0m[31m[1;31m"[0m[31mpop[1;31m"[0m[31m[0m,
+   @name[32m=[0m[31m[1;31m"[0m[31mhit me baby one more time[1;31m"[0m[31m[0m[32m>[0m],
+ [[32m#<Song:0x00000003230548[0m
+   @artist[32m=[0m[31m[1;31m"[0m[31mBrittany Spears[1;31m"[0m[31m[0m,
+   @genre[32m=[0m[31m[1;31m"[0m[31mpop[1;31m"[0m[31m[0m,
+   @name[32m=[0m[31m[1;31m"[0m[31mhit me baby one more time[1;31m"[0m[31m[0m[32m>[0m],
+ [[32m#<Song:0x00000003222100[0m @artist[32m=[0m[31m[1;31m"[0m[31mJay-Z[1;31m"[0m[31m[0m, @genre[32m=[0m[31m[1;31m"[0m[31mrap[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31mLucifer[1;31m"[0m[31m[0m[32m>[0m],
+ [[32m#<Song:0x00000003221f98[0m @artist[32m=[0m[31m[1;31m"[0m[31mJay-Z[1;31m"[0m[31m[0m, @genre[32m=[0m[31m[1;31m"[0m[31mrap[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31m99 Problems[1;31m"[0m[31m[0m[32m>[0m],
+ [[32m#<Song:0x00000003221e08[0m
+   @artist[32m=[0m[31m[1;31m"[0m[31mBrittany Spears[1;31m"[0m[31m[0m,
+   @genre[32m=[0m[31m[1;31m"[0m[31mpop[1;31m"[0m[31m[0m,
+   @name[32m=[0m[31m[1;31m"[0m[31mhit me baby one more time[1;31m"[0m[31m[0m[32m>[0m],
+ [[32m#<Song:0x00000003216710[0m @artist[32m=[0m[31m[1;31m"[0m[31mJay-Z[1;31m"[0m[31m[0m, @genre[32m=[0m[31m[1;31m"[0m[31mrap[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31mLucifer[1;31m"[0m[31m[0m[32m>[0m],
+ [[32m#<Song:0x00000003216580[0m @artist[32m=[0m[31m[1;31m"[0m[31mJay-Z[1;31m"[0m[31m[0m, @genre[32m=[0m[31m[1;31m"[0m[31mrap[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31m99 Problems[1;31m"[0m[31m[0m[32m>[0m],
+ [[32m#<Song:0x000000032163f0[0m
+   @artist[32m=[0m[31m[1;31m"[0m[31mBrittany Spears[1;31m"[0m[31m[0m,
+   @genre[32m=[0m[31m[1;31m"[0m[31mpop[1;31m"[0m[31m[0m,
+   @name[32m=[0m[31m[1;31m"[0m[31mhit me baby one more time[1;31m"[0m[31m[0m[32m>[0m],
+ [[32m#<Song:0x00000003214398[0m @artist[32m=[0m[31m[1;31m"[0m[31mJay-Z[1;31m"[0m[31m[0m, @genre[32m=[0m[31m[1;31m"[0m[31mrap[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31mLucifer[1;31m"[0m[31m[0m[32m>[0m],
+ [[32m#<Song:0x00000003214208[0m @artist[32m=[0m[31m[1;31m"[0m[31mJay-Z[1;31m"[0m[31m[0m, @genre[32m=[0m[31m[1;31m"[0m[31mrap[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31m99 Problems[1;31m"[0m[31m[0m[32m>[0m],
+ [[32m#<Song:0x000000032140a0[0m
+   @artist[32m=[0m[31m[1;31m"[0m[31mBrittany Spears[1;31m"[0m[31m[0m,
+   @genre[32m=[0m[31m[1;31m"[0m[31mpop[1;31m"[0m[31m[0m,
+   @name[32m=[0m[31m[1;31m"[0m[31mhit me baby one more time[1;31m"[0m[31m[0m[32m>[0m],
+ [[32m#<Song:0x000000031d05a8[0m
