@@ -15,6 +15,10 @@ class Song
     @genre = genre
     @@count += 1
     @@artists << artist
+    if @@artist_count[artist]
+      @@artist_count[artist] += 1
+    else
+      @@artist_count[artist] = 1
     @@genres << genre
     if @@genre_count[genre]
       @@genre_count[genre] += 1
@@ -37,5 +41,9 @@ class Song
   
   def self.genre_count
     @@genre_count
+  end
+  
+  def self.artist_count
+    @@artist_count
   end
 end
